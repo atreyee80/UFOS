@@ -6,7 +6,12 @@ Dana's goal is to create an interactive webpage that allows readers to parse the
 
 ## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
+image
 
 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+## Summary:
+The web page has been created  to show events that have occurred in the US as well as seeing their locations ,dates and the duration, shape and comments sections all adds up to give valuable informations which has been nicely recorded and displayed in a table,reading through this webpage will convey all the events that has  been happened in the past with detailed regarding the nature of the event. The drawback from the website is in its functionalty as it only references a file that has to be updated and not linked to database so events are more regularly updated as they occur in real time.
+
+Two features I might add to this webpage would not only implement functionality as discussed above but to add a search engine to better find a location or certain type of event (shape, duration, comments etc.) for quicker use.

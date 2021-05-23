@@ -5,7 +5,7 @@ Dana's goal is to create an interactive webpage that allows readers to parse the
 
 
 ## Results: 
-The webpage give all the information relatedto UFO Sightings and all the records have been nicely presented in a table data.The year and the differents parts of US with durations and the shape of UFO .
+The webpage give all the information related to UFO Sightings and all the records have been nicely presented in a table data.The year and the differents parts of US with durations and the shape of UFO .
 ![](webpage.png?raw=true)
 This table has been filtered with city as "Benton" and shape as "circle".The record has been shown in the image below.
 ![](filter_img.png?raw=true)

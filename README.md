@@ -6,7 +6,7 @@ Dana's goal is to create an interactive webpage that allows readers to parse the
 
 ## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
-image
+![](webpage.png?raw=true)
 
 
 

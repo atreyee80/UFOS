@@ -7,6 +7,7 @@ Dana's goal is to create an interactive webpage that allows readers to parse the
 ## Results: 
 
 ![](webpage.png?raw=true)
+![](filter_image.png?raw=true)
 
 
 
